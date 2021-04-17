@@ -1,3 +1,5 @@
+cmcrameri
+ipympl
 matplotlib
 mpl_interactions
 
