@@ -1,2 +1,3 @@
 matplotlib
-mpl-interactions
+mpl_interactions
+
