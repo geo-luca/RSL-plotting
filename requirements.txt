@@ -1,5 +1,8 @@
 cmcrameri
 ipympl
+math
 matplotlib
 mpl_interactions
-
+numpy
+pandas
+scipy
