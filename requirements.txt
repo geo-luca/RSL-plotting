@@ -5,3 +5,4 @@ mpl_interactions
 numpy
 pandas
 scipy
+voila
