@@ -4,6 +4,7 @@ This is companion material to the EGU abstract Malatesta, L. C., Finnegan, N. J.
 An article will soon be submitted to review and available as a preprint.
 
 Luca C. Malatesta, Noah J. Finnegan, Kimberly L. Huppert, Emily I. Carreño
+
 ![image](https://user-images.githubusercontent.com/62424122/115224777-94eae180-a10d-11eb-8a43-dab7de41c084.png)
 
 
